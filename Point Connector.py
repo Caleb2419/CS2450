@@ -1,5 +1,9 @@
 import time
 def Main():
+
+
+
+    ######### I added a comment #########
     filename = "100_PANA_0.ply"
     fin = open(filename, "r")
     fout = open("new_mesh.ply", "w")
